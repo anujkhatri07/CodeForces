@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 2 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [strings](#strings) (1)
 
 ---
@@ -29,6 +29,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
+| 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1742/A%20-%20Sum/solution.py) |
 
 ### strings
 
