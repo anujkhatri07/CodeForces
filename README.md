@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 3 |
+| 3 | 3 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (1)
 - [implementation](#implementation) (2)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -35,6 +35,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 
 ---
