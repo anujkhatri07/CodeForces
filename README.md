@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 6 |
+| 7 | 6 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (5)
-- [math](#math) (1)
+- [math](#math) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (4)
 
@@ -49,6 +49,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.py) |
 
 ### sortings
 
