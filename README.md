@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 6 |
+| 9 | 6 |
 
 ---
 
@@ -14,8 +14,8 @@
 
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (6)
-- [math](#math) (2)
+- [implementation](#implementation) (7)
+- [math](#math) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (5)
 
@@ -42,6 +42,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1742/A%20-%20Sum/solution.py) |
@@ -50,6 +51,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.py) |
 
