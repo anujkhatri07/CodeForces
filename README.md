@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 9 |
+| 24 | 9 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [dp](#dp) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (17)
-- [math](#math) (4)
+- [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (11)
@@ -80,6 +80,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.py) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
