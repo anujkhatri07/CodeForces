@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 10 |
+| 32 | 10 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (22)
+- [implementation](#implementation) (23)
 - [math](#math) (5)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
@@ -69,6 +69,7 @@
 |---|---------|------------|----------|
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/41/A%20-%20Translation/solution.py) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/59/A%20-%20Word/solution.py) |
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.py) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/116/A%20-%20Tram/solution.py) |
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.py) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/136/A%20-%20Presents/solution.py) |
