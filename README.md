@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 10 |
+| 33 | 10 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (23)
-- [math](#math) (5)
+- [math](#math) (6)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (11)
@@ -100,6 +100,7 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.py) |
+| 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.py) |
 
 ### number theory
 
