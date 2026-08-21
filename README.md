@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 11 |
+| 35 | 11 |
 
 ---
 
@@ -18,8 +18,8 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (3)
-- [implementation](#implementation) (24)
-- [math](#math) (7)
+- [implementation](#implementation) (25)
+- [math](#math) (8)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (11)
@@ -82,6 +82,7 @@
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.py) |
 | 136A | [Presents](https://codeforces.com/contest/136/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/136/A%20-%20Presents/solution.py) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.py) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
@@ -106,6 +107,7 @@
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.py) |
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.py) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.py) |
