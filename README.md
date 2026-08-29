@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 41 | 11 |
+| 42 | 11 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (29)
+- [implementation](#implementation) (30)
 - [math](#math) (12)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
@@ -104,6 +104,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1742/A%20-%20Sum/solution.py) |
+| 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.py) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.py) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.py) |
 
