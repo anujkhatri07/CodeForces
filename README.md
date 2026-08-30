@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 11 |
+| 44 | 12 |
 
 ---
 
@@ -14,11 +14,12 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
+- [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (9)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (31)
+- [implementation](#implementation) (32)
 - [math](#math) (12)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
@@ -37,6 +38,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.py) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.py) |
 
 ### brute force
 
@@ -107,6 +114,7 @@
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1742/A%20-%20Sum/solution.py) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.py) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.py) |
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.py) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.py) |
 
 ### math
