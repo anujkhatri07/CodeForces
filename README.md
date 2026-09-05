@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 49 | 12 |
+| 50 | 12 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (35)
+- [implementation](#implementation) (36)
 - [math](#math) (13)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
@@ -102,6 +102,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.py) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.py) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/344/A%20-%20Magnets/solution.py) |
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.py) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.py) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.py) |
