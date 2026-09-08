@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 52 | 12 |
+| 53 | 12 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (38)
+- [implementation](#implementation) (39)
 - [math](#math) (13)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
-- [strings](#strings) (12)
+- [strings](#strings) (13)
 
 ---
 
@@ -117,6 +117,7 @@
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.py) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.py) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
+| 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.py) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.py) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1722A | [Spell Check](https://codeforces.com/contest/1722/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1722/A%20-%20Spell%20Check/solution.py) |
@@ -173,6 +174,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.py) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.py) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.py) |
+| 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.py) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.py) |
 
