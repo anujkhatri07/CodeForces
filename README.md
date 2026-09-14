@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 58 | 13 |
+| 59 | 13 |
 
 ---
 
@@ -19,12 +19,12 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (43)
+- [implementation](#implementation) (44)
 - [math](#math) (14)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (4)
 - [strings](#strings) (13)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -131,6 +131,7 @@
 | 1722A | [Spell Check](https://codeforces.com/contest/1722/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1722/A%20-%20Spell%20Check/solution.py) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1742/A%20-%20Sum/solution.py) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.py) |
+| 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.py) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.py) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.py) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.py) |
@@ -196,6 +197,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.py) |
+| 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.py) |
 
 ---
 
