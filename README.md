@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 60 | 13 |
+| 61 | 14 |
 
 ---
 
@@ -18,10 +18,11 @@
 - [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
+- [games](#games) (1)
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (45)
-- [math](#math) (14)
-- [number theory](#number-theory) (3)
+- [math](#math) (15)
+- [number theory](#number-theory) (4)
 - [sortings](#sortings) (4)
 - [strings](#strings) (13)
 - [two pointers](#two-pointers) (2)
@@ -73,6 +74,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.py) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 
 ### greedy
 
@@ -156,6 +163,7 @@
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.py) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.py) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.py) |
 
 ### number theory
@@ -165,6 +173,7 @@
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.py) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.py) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 
 ### sortings
 
