@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 67 | 14 |
+| 68 | 15 |
 
 ---
 
@@ -17,10 +17,11 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (12)
-- [implementation](#implementation) (48)
+- [implementation](#implementation) (49)
 - [math](#math) (19)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (5)
@@ -68,6 +69,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.py) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.py) |
 
 ### dp
 
@@ -139,6 +146,7 @@
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.py) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
+| 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.py) |
 | 1722A | [Spell Check](https://codeforces.com/contest/1722/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1722/A%20-%20Spell%20Check/solution.py) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1742/A%20-%20Sum/solution.py) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.py) |
