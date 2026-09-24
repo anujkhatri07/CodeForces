@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 68 | 15 |
+| 69 | 15 |
 
 ---
 
@@ -15,16 +15,16 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (11)
+- [brute force](#brute-force) (12)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (12)
+- [greedy](#greedy) (13)
 - [implementation](#implementation) (49)
 - [math](#math) (19)
 - [number theory](#number-theory) (5)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (14)
 - [two pointers](#two-pointers) (2)
 
@@ -63,6 +63,7 @@
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.py) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1873/A%20-%20Short%20Sort/solution.py) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.py) |
 
 ### constructive algorithms
 
@@ -104,6 +105,7 @@
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.py) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.py) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.py) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.py) |
 
 ### implementation
 
@@ -202,6 +204,7 @@
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.py) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.py) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.py) |
+| 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.py) |
 
 ### strings
 
