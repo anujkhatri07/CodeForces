@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 74 | 15 |
+| 75 | 15 |
 
 ---
 
@@ -15,14 +15,14 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (12)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [brute force](#brute-force) (13)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (14)
-- [implementation](#implementation) (54)
-- [math](#math) (20)
+- [implementation](#implementation) (55)
+- [math](#math) (21)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (6)
 - [strings](#strings) (15)
@@ -59,6 +59,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/268/A%20-%20Games/solution.py) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.py) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.py) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.py) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.py) |
@@ -70,6 +71,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.py) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.py) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.py) |
 
 ### data structures
@@ -142,6 +144,7 @@
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.py) |
 | 677A | [Vanya and Fence](https://codeforces.com/contest/677/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/677/A%20-%20Vanya%20and%20Fence/solution.py) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/705/A%20-%20Hulk/solution.py) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.py) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.py) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.py) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.py) |
@@ -181,6 +184,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.py) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.py) |
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.py) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.py) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.py) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.py) |
