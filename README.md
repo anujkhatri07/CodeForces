@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 79 | 15 |
+| 80 | 15 |
 
 ---
 
@@ -20,12 +20,12 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (16)
+- [greedy](#greedy) (17)
 - [implementation](#implementation) (56)
 - [math](#math) (22)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (7)
-- [strings](#strings) (15)
+- [strings](#strings) (16)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -113,6 +113,7 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.py) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.py) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.py) |
+| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.py) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.py) |
 
 ### implementation
@@ -244,6 +245,7 @@
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.py) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.py) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1985/A%20-%20Creating%20Words/solution.py) |
+| 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.py) |
 
 ### two pointers
 
