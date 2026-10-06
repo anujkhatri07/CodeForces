@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 80 | 15 |
+| 81 | 15 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [games](#games) (1)
+- [games](#games) (2)
 - [greedy](#greedy) (17)
 - [implementation](#implementation) (56)
 - [math](#math) (22)
@@ -93,6 +93,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
+| 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.py) |
 
 ### greedy
 
