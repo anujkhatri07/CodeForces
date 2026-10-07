@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/32/problem/B" target="_blank" rel="noopener noreferrer">32B — Borze</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | Python 3 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 32B](https://codeforces.com/contest/32/problem/B) |
+
+## Topics
+`expression parsing` `implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">B. Borze</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>Ternary numeric notation is quite popular in Berland. To telegraph the ternary number the Borze alphabet is used. Digit 0 is transmitted as <span class="tex-font-style-tt">«.»</span>, 1 as <span class="tex-font-style-tt">«-.»</span> and 2 as <span class="tex-font-style-tt">«--»</span>. You are to decode the Borze code, i.e. to find out the ternary number given its representation in Borze alphabet.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains a number in Borze code. The length of the string is between 1 and 200 characters. It's guaranteed that the given string is a valid Borze code of some ternary number (this number can have leading zeroes).</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output the decoded ternary number. It can have leading zeroes.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0026463892834092395" id="id004210028225713969" class="input-output-copier">Copy</div></div><pre id="id0026463892834092395">.-.--<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008956849851252607" id="id009951243215762405" class="input-output-copier">Copy</div></div><pre id="id008956849851252607">012</pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008852763065379546" id="id007971350610490955" class="input-output-copier">Copy</div></div><pre id="id008852763065379546">--.<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id009440798228910584" id="id007588282041716973" class="input-output-copier">Copy</div></div><pre id="id009440798228910584">20</pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0024402352060259902" id="id0063707948796051" class="input-output-copier">Copy</div></div><pre id="id0024402352060259902">-..-.--<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008060081042996071" id="id0018780157204250614" class="input-output-copier">Copy</div></div><pre id="id008060081042996071">1012</pre></div></div></div>
