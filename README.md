@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 81 | 15 |
+| 82 | 16 |
 
 ---
 
@@ -19,9 +19,10 @@
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
+- [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (17)
-- [implementation](#implementation) (56)
+- [implementation](#implementation) (57)
 - [math](#math) (22)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (7)
@@ -88,6 +89,12 @@
 |---|---------|------------|----------|
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.py) |
 
+### expression parsing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/32/B%20-%20Borze/solution.py) |
+
 ### games
 
 | # | Problem | Difficulty | Solution |
@@ -121,6 +128,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/32/B%20-%20Borze/solution.py) |
 | 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/41/A%20-%20Translation/solution.py) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/59/A%20-%20Word/solution.py) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/61/A%20-%20Ultra-Fast%20Mathematician/solution.py) |
