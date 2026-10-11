@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 85 | 16 |
+| 86 | 16 |
 
 ---
 
@@ -21,11 +21,11 @@
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (18)
+- [greedy](#greedy) (19)
 - [implementation](#implementation) (59)
-- [math](#math) (23)
+- [math](#math) (24)
 - [number theory](#number-theory) (5)
-- [sortings](#sortings) (7)
+- [sortings](#sortings) (8)
 - [strings](#strings) (17)
 - [two pointers](#two-pointers) (2)
 
@@ -116,6 +116,7 @@
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.py) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.py) |
+| 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.py) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.py) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.py) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.py) |
@@ -210,6 +211,7 @@
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.py) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.py) |
+| 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.py) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.py) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.py) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
@@ -235,6 +237,7 @@
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.py) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.py) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.py) |
+| 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.py) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.py) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.py) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.py) |
