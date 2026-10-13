@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 87 | 16 |
+| 88 | 16 |
 
 ---
 
@@ -21,11 +21,11 @@
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (19)
+- [greedy](#greedy) (20)
 - [implementation](#implementation) (59)
 - [math](#math) (25)
 - [number theory](#number-theory) (5)
-- [sortings](#sortings) (8)
+- [sortings](#sortings) (9)
 - [strings](#strings) (17)
 - [two pointers](#two-pointers) (2)
 
@@ -112,6 +112,7 @@
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.py) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.py) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.py) |
+| 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.py) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.py) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.py) |
@@ -237,6 +238,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.py) |
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.py) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.py) |
+| 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.py) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.py) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.py) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.py) |
