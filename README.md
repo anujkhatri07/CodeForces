@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 93 | 16 |
+| 94 | 16 |
 
 ---
 
@@ -21,10 +21,10 @@
 - [dp](#dp) (2)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (21)
-- [implementation](#implementation) (60)
-- [math](#math) (27)
-- [number theory](#number-theory) (6)
+- [greedy](#greedy) (22)
+- [implementation](#implementation) (61)
+- [math](#math) (28)
+- [number theory](#number-theory) (7)
 - [sortings](#sortings) (10)
 - [strings](#strings) (19)
 - [two pointers](#two-pointers) (2)
@@ -115,6 +115,7 @@
 | 432A | [Choosing Teams](https://codeforces.com/contest/432/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/432/A%20-%20Choosing%20Teams/solution.py) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.py) |
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.py) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.py) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.py) |
 | 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.py) |
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.py) |
@@ -169,6 +170,7 @@
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/705/A%20-%20Hulk/solution.py) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.py) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.py) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.py) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.py) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.py) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.py) |
@@ -210,6 +212,7 @@
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.py) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.py) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.py) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.py) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.py) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.py) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.py) |
@@ -235,6 +238,7 @@
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.py) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.py) |
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.py) |
+| 749A | [Bachgold Problem](https://codeforces.com/contest/749/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/749/A%20-%20Bachgold%20Problem/solution.py) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.py) |
 | 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.py) |
