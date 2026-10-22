@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 96 | 16 |
+| 97 | 16 |
 
 ---
 
@@ -16,14 +16,14 @@
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (17)
-- [constructive algorithms](#constructive-algorithms) (5)
+- [constructive algorithms](#constructive-algorithms) (6)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (22)
 - [implementation](#implementation) (62)
-- [math](#math) (29)
+- [math](#math) (30)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (10)
 - [strings](#strings) (19)
@@ -79,6 +79,7 @@
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.py) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.py) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.py) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.py) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.py) |
 
 ### data structures
@@ -233,6 +234,7 @@
 | 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.py) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.py) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/2167/A%20-%20Square%3F/solution.py) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.py) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.py) |
 
 ### number theory
