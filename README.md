@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 98 | 16 |
+| 99 | 16 |
 
 ---
 
@@ -22,8 +22,8 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
 - [greedy](#greedy) (23)
-- [implementation](#implementation) (62)
-- [math](#math) (31)
+- [implementation](#implementation) (63)
+- [math](#math) (32)
 - [number theory](#number-theory) (7)
 - [sortings](#sortings) (10)
 - [strings](#strings) (19)
@@ -184,6 +184,7 @@
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.py) |
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.py) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
+| 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1426/A%20-%20Floor%20Number/solution.py) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.py) |
 | 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.py) |
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.py) |
@@ -226,6 +227,7 @@
 | 1367B | [Even Array](https://codeforces.com/contest/1367/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1367/B%20-%20Even%20Array/solution.py) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.py) |
+| 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1426/A%20-%20Floor%20Number/solution.py) |
 | 1624A | [Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1624/A%20-%20Plus%20One%20on%20the%20Subset/solution.py) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.py) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.py) |
