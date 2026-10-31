@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 104 | 17 |
+| 105 | 17 |
 
 ---
 
@@ -22,9 +22,9 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (2)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (24)
+- [greedy](#greedy) (25)
 - [implementation](#implementation) (64)
-- [math](#math) (36)
+- [math](#math) (37)
 - [number theory](#number-theory) (8)
 - [sortings](#sortings) (11)
 - [strings](#strings) (20)
@@ -136,6 +136,7 @@
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.py) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.py) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.py) |
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.py) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.py) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.py) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.py) |
@@ -242,6 +243,7 @@
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1426/A%20-%20Floor%20Number/solution.py) |
 | 1624A | [Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1624/A%20-%20Plus%20One%20on%20the%20Subset/solution.py) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.py) |
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.py) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.py) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.py) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.py) |
