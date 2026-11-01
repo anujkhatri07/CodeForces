@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 105 | 17 |
+| 106 | 17 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (25)
 - [implementation](#implementation) (64)
-- [math](#math) (37)
+- [math](#math) (38)
 - [number theory](#number-theory) (8)
 - [sortings](#sortings) (11)
 - [strings](#strings) (20)
@@ -241,6 +241,7 @@
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.py) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.py) |
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1426/A%20-%20Floor%20Number/solution.py) |
+| 1542A | [Odd Set](https://codeforces.com/contest/1542/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1542/A%20-%20Odd%20Set/solution.py) |
 | 1624A | [Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1624/A%20-%20Plus%20One%20on%20the%20Subset/solution.py) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.py) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [Python 3](https://github.com/anujkhatri07/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.py) |
